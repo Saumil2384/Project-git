@@ -1,2 +1,0 @@
-Change in B1 v B3.
-Change in master v3.
